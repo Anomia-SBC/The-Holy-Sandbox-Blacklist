@@ -20,7 +20,10 @@ Source:
 ```
 Runs off an insecure source that's not properly maintained. Similar flag to Vulnerable
 ```
-
+Unfinished:
+```
+Cases where the website is not finished. We blacklist them as they are often not worth getting into.
+```
 Toxicity / Hate: 
 ```
 Cases where the Owners / Staff / Users encourage toxic behaviour or hate speech. (To which in last case, no moderation action is done)
@@ -77,4 +80,12 @@ uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
 **Blox-City**
 ```
 bloxcity *.com *.net *.io *.build - Owner, Vulnerable, Source
+```
+**Thamur**
+```
+thamur *.net *.com *.io *.build - Unfinished
+```
+**Brickorzo**
+```
+brickorzo *.net *.tk *.io *.build - Unfinished, Vulnerable, Owner
 ```
