@@ -12,42 +12,65 @@ If you want to add a website to the list, either make a [pull request](https://g
 
 # Types of Blacklist
 
-Vulnerable => Hacked often
+Vulnerable:
+```
+Cases where the website is vulnerable and can be considered dangerous or risky to make an account / share private data on.
+```
+Source:
+```
+Runs off an insecure source that's not properly maintained. Similar flag to Vulnerable
+```
 
-Source => Uses a insecure / old / unmaintained code that's vulnerable
+Toxicity / Hate: 
+```
+Cases where the Owners / Staff / Users encourage toxic behaviour or hate speech. (To which in last case, no moderation action is done)
+```
 
-Toxicity => Promotes toxicity, hate or similar
+Exit Scam:
+```
+Cases where the website was designed to scam the users.
+```
 
-Exit Scam => Promotes scams
-
-Owner => Owner is incompetent
+Owner:
+```
+Cases where the Owner has shown poor ability at management.
+```
 
 The Holy Blacklist
 ---
+**Vertineer**
 ```
 Vertineer *.net *.com *.xyz - Vulnerable, Source, Owner
 ```
+**Retrimo**
 ```
 Retrimo *.net *.com *.xyz - Vulnerable, Source, Owner
 ```
+**BLDN Hill**
 ```
 BLDN-hill *.com *.xyz *.net - Toxicity, Hate, Owner
 ```
+**BrickPlanet**
 ```
 Brickplanet *.com *.xyz *.io *.net - Exit Scam, Source, Owner
 ```
+**Avasquare**
 ```
 Avasquare *.com *.xyz *.io *.net *.tk - Exit Scam, Owner
 ```
+**Kaplash**
 ```
 Kaplash *.xyz *.net *.com - Owner, Vulnerable, Source
 ```
+**Rocapia**
 ```
 Rocapia / planetarium *.xyz *.net *.com *.planet - Owner, Toxicity
 ```
+**Cubebrick**
 ```
 cubebrick *.net - Owner, Source
 ```
+**UXHill**
 ```
 uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
 ```
