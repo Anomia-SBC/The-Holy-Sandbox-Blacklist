@@ -45,4 +45,4 @@ etc...
 
 Where is the list of sites?
 
-[Right here!](https://github.com/Shigetorum635/SBC-Blacklist/)
+[Right here!](https://github.com/Shigetorum635/SBC-Blacklist/blob/main/BLACKLIST.md)
