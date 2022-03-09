@@ -74,3 +74,7 @@ cubebrick *.net - Owner, Source
 ```
 uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
 ```
+**Blox-City**
+```
+bloxcity *.com *.net *.io *.build - Owner, Vulnerable, Source
+```
