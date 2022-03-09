@@ -1,4 +1,4 @@
-# The holy blacklist
+# The Blacklist
 > NOTE: This blacklist is from personal opinion. In the end It's your own decision and and risk to browse these websites or not.
 
 ### Report
