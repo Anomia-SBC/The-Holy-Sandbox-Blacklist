@@ -1,0 +1,44 @@
+name: Removal Request
+description: File a removal request
+title: "[REMOVAL]: "
+labels: ["bug", "triage"]
+assignees:
+  - Shigetorum635
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this removal request!
+  - type: input
+    id: contact
+    attributes:
+      label: Discord Tag
+      description: Please Include your discord tag
+      placeholder: Discord
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: Website URL
+      description: Please the blacklisted website URL
+      placeholder: URL
+      validations:
+        required: true
+  - type: textarea
+    id: explain
+    attributes:
+      label: Why should it be removed?
+      description: Why should your website be removed from the blacklist?
+      placeholder: Tell us what you think!
+      value: "My site..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Conditions
+      description: My website does not run any source.
+      options:
+        - label: I agree
+          required: true
