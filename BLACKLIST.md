@@ -31,4 +31,5 @@ Brickplanet *.com *.xyz *.io *.net - Exit Scam, Source, Owner
 
 Avasquare *.com *.xyz *.io *.net *.tk - Exit Scam, Owner
 
+Kaplash *.xyz *.net *.com
 ```
