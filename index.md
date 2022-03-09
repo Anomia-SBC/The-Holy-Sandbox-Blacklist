@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+  
+# The Blacklist
+> NOTE: This blacklist is from personal opinion. In the end It's your own decision and and risk to browse these websites or not.
+> 
+### Report
+If you believe your website is here and was added wrongly please create an [issue](https://github.com/Shigetorum635/SBC-Blacklist/issues)
 
-You can use the [editor on GitHub](https://github.com/Anomia-SBC/The-Holy-Sandbox-Blacklist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Adding new sites
+If you want to add a website to the list, either make a [pull request](https://github.com/Shigetorum635/SBC-Blacklist/pulls) or an [issue](https://github.com/Shigetorum635/SBC-Blacklist/issues)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# THE HOLY BLACKLIST
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vulnerable => Hacked often
 
-```markdown
-Syntax highlighted code block
+Source => Uses a insecure / old / unmaintained code that's vulnerable
 
-# Header 1
-## Header 2
-### Header 3
+Toxicity => Promotes toxicity, hate or similar
 
-- Bulleted
-- List
+Exit Scam => Promotes scams
 
-1. Numbered
-2. List
+Owner => Owner is incompetent
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anomia-SBC/The-Holy-Sandbox-Blacklist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vertineer *.net *.com *.xyz - Vulnerable, Source, Owner
+Retrimo *.net *.com *.xyz - Vulnerable, Source, Owner
+BLDN-hill *.com *.xyz *.net - Toxicity, Hate, Owner
+Brickplanet *.com *.xyz *.io *.net - Exit Scam, Source, Owner
+Avasquare *.com *.xyz *.io *.net *.tk - Exit Scam, Owner
+Kaplash *.xyz *.net *.com - Owner, Vulnerable, Source
+Rocapia / planetarium *.xyz *.net *.com *.planet - Owner, Toxicity
+```
