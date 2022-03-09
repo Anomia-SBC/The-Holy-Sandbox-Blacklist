@@ -33,5 +33,5 @@ Avasquare *.com *.xyz *.io *.net *.tk - Exit Scam, Owner
 
 Kaplash *.xyz *.net *.com - Owner, Vulnerable, Source
 
-
+Rocapia / planetarium *.xyz *.net *.com *.planet - Owner, Toxicity
 ```
