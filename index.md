@@ -48,3 +48,6 @@ Rocapia / planetarium *.xyz *.net *.com *.planet - Owner, Toxicity
 ```
 cubebrick *.net - Owner, Source
 ```
+```
+uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
+```
