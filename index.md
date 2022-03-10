@@ -81,11 +81,14 @@ uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
 ```
 bloxcity *.com *.net *.io *.build - Owner, Vulnerable, Source
 ```
+
+Unfinished Websites
+---
 **Thamur**
 ```
 thamur *.net *.com *.io *.build - Unfinished
 ```
 **Brickorzo**
 ```
-brickorzo *.net *.tk *.io *.build - Unfinished, Vulnerable, Owner
+brickorzo *.net *.tk *.io *.build - Unfinished
 ```
