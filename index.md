@@ -77,9 +77,17 @@ cubebrick *.net - Owner, Source
 ```
 uxhill *.com *.xyz *.net *.io *.tk - Owner, Vulnerable
 ```
-**Blox-City**
+**BloxCity**
 ```
 bloxcity *.com *.net *.io *.build - Owner, Vulnerable, Source
+```
+**Blox-City**
+```
+blox-city * *.net - Unfinished, Owner
+```
+**Thamur**
+```
+thamur *.net *.com *.io *.build - Unfinished, Owner
 ```
 **Blockcave**
 ```
@@ -87,10 +95,7 @@ blockcave *.c1.biz - Owner, Vulnerable, Source, Unfinished
 ```
 Unfinished Websites
 ---
-**Thamur**
-```
-thamur *.net *.com *.io *.build - Unfinished
-```
+
 **Brickorzo**
 ```
 brickorzo *.net *.tk *.io *.build - Unfinished
