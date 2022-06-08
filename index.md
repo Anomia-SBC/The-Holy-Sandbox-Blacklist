@@ -1,6 +1,8 @@
   
 # The Blacklist
-> NOTE: This blacklist is from personal opinion. In the end It's your own decision and and risk to browse these websites or not.
+~~> NOTE: This blacklist is from personal opinion. In the end It's your own decision and and risk to browse these websites or not.~~
+
+This blacklist is led by community contributions. If a website is here, it's recommended to not visit it.
 
 ### Report
 If you believe your website is here and was added wrongly please create an [issue](https://github.com/Shigetorum635/SBC-Blacklist/issues)
