@@ -103,5 +103,9 @@ brickorzo *.net *.tk *.io *.build - Unfinished
 
 **Vetatorium**
 ```
-Vetatorium .com/ & beta.vetatorium.com/ - Unfinished
+Vetatorium *.com & beta.vetatorium.com - Unfinished
+```
+**Buildaverse**
+```
+Buildaverse *.com - Unfinished
 ```
