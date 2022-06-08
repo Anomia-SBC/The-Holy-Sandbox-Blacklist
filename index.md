@@ -100,3 +100,8 @@ Unfinished Websites
 ```
 brickorzo *.net *.tk *.io *.build - Unfinished
 ```
+
+**Vetatorium**
+```
+Vetatorium .com/ & beta.vetatorium.com/ - Unfinished
+```
